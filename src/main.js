@@ -5,6 +5,6 @@ import $ from "jquery";
 
 $(document).ready(function() {
   $(".card").click(function() {
-    
+
   })
 })
